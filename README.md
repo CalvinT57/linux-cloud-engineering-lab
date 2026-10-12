@@ -111,6 +111,11 @@ I then accessed the web server from the macOS host using the Ubuntu VM's private
 
 This allowed me to validate that the Linux server was successfully hosting a web service that could be reached from another system.
 
+## Screenshot
+
+### Nginx Web Server Validation
+
+![Nginx Web Server Validation](nginx-web-server-validation.png)
 ## What I Learned
 
 This lab helped me understand how Linux is used for server administration, remote access, networking, service management, package management, logging, and troubleshooting.
